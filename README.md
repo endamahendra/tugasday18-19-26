@@ -1,7 +1,7 @@
-# Panduan Pengguna: Mengkloning dan Menyiapkan Proyek Laravel
+<b>Panduan Pengguna: Mengkloning dan Menyiapkan Proyek Laravel<b>
 
-1.git clone <URL_Repositori>
-2.cd <Nama_Folder_Proyek>
+<p>1.git clone https://github.com/endamahendra/tugasday18-19-26.git </p>
+2.cd tugasday18-19-26
 3.composer install
 4.npm install && npm run dev
 5.cp .env.example .env
